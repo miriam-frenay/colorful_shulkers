@@ -1,0 +1,5 @@
+{
+  "condition": "minecraft:random_chance_with_looting",
+  "chance": 0.3333333333333333,
+  "looting_multiplier": 0.0625
+}
