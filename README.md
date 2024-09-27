@@ -4,4 +4,4 @@ Adds some color variation to naturally spawned shulkers, and makes them drop up 
 
 ## License
 
-This data pack is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+This data pack is released under the [CC0 1.0 Universal](./LICENSE.txt) license.
